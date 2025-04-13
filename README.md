@@ -20,6 +20,4 @@ Welcome to the **Hogwarts Archive**—your gateway to wizarding knowledge! 🪄�
 ![Charcters](https://github.com/shahdgaballah/depi-task5-hogwarts-archive/blob/master/6044334809288918985.jpg)  
 ![Charcters](https://github.com/shahdgaballah/depi-task5-hogwarts-archive/blob/master/6044334809288918986.jpg)  
 ![Charcters](https://github.com/shahdgaballah/depi-task5-hogwarts-archive/blob/master/6044334809288918987.jpg)  
-
-
-
+![Charcters](https://github.com/shahdgaballah/depi-task5-hogwarts-archive/blob/master/6044334809288918990.jpg)  
