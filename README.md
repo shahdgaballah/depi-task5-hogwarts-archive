@@ -17,6 +17,8 @@ An Android application that fetches and displays Harry Potter characters using A
 - **Version Control:** Git, GitHub  
 
 Welcome to the **Hogwarts Archive**—your gateway to wizarding knowledge! 🪄📖   
+
+### Character Directory
 ![Charcters](https://github.com/shahdgaballah/depi-task5-hogwarts-archive/blob/master/6044334809288918985.jpg)  
 ![Charcters](https://github.com/shahdgaballah/depi-task5-hogwarts-archive/blob/master/6044334809288918986.jpg)  
 ![Charcters](https://github.com/shahdgaballah/depi-task5-hogwarts-archive/blob/master/6044334809288918987.jpg)  
